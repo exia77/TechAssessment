@@ -1,0 +1,8 @@
+C:\Users\espir\Documents\GitHub\TechAssessment\Programming Testing\bin\Debug\Programming Testing.exe.config
+C:\Users\espir\Documents\GitHub\TechAssessment\Programming Testing\bin\Debug\Programming Testing.exe
+C:\Users\espir\Documents\GitHub\TechAssessment\Programming Testing\bin\Debug\Programming Testing.pdb
+C:\Users\espir\Documents\GitHub\TechAssessment\Programming Testing\obj\Debug\Programming Testing.csproj.AssemblyReference.cache
+C:\Users\espir\Documents\GitHub\TechAssessment\Programming Testing\obj\Debug\Programming Testing.csproj.SuggestedBindingRedirects.cache
+C:\Users\espir\Documents\GitHub\TechAssessment\Programming Testing\obj\Debug\Programming Testing.csproj.CoreCompileInputs.cache
+C:\Users\espir\Documents\GitHub\TechAssessment\Programming Testing\obj\Debug\Programming Testing.exe
+C:\Users\espir\Documents\GitHub\TechAssessment\Programming Testing\obj\Debug\Programming Testing.pdb
